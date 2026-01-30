@@ -1,16 +1,21 @@
-# wheater_app
+# 🌤️ Weather App (Flutter)
+Aplikasi mobile sederhana berbasis **Flutter** untuk menampilkan informasi cuaca secara real-time dari beberapa kota di Indonesia menggunakan **WeatherAPI**.
 
-A new Flutter project.
+Pengguna dapat melakukan login, melihat daftar kota, serta mengecek detail kondisi cuaca seperti suhu, kelembapan, kecepatan angin, UV index, dan tekanan udara.
 
-## Getting Started
+## ✨ Fitur Utama
+- Login & Register
+- Daftar kota (Jakarta, Bandung, Surabaya, Makassar, Medan, dll)
+- Informasi cuaca real-time tiap kota
+- Detail cuaca lengkap:
+  - Suhu
+  - Humidity
+  - Wind speed
+  - UV index
+  - Pressure
+- Halaman profil pengguna
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Teknologi
+- Flutter (Dart)
+- HTTP Request (WeatherAPI)
+- Firebase Authentication
