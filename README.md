@@ -20,5 +20,5 @@ Pengguna dapat melakukan login, melihat daftar kota, serta mengecek detail kondi
 - HTTP Request (WeatherAPI)
 - Firebase Authentication
 
-## Link Youtube   : https://youtu.be/48mA1I2AXls
-## Link Figma     : https://www.figma.com/design/1g2bWPX64I7XmPCVsLnc5m/Untitled?node-id=0-1&t=H4dyzCIfMC3xU6wa-1
+Link Youtube   : https://youtu.be/48mA1I2AXls
+Link Figma     : https://www.figma.com/design/1g2bWPX64I7XmPCVsLnc5m/Untitled?node-id=0-1&t=H4dyzCIfMC3xU6wa-1
