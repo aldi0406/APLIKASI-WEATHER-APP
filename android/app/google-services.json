@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592980402193",
+    "project_id": "flutter-app-eb5fe",
+    "storage_bucket": "flutter-app-eb5fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592980402193:android:55b33455e0fa7e005811b0",
+        "android_client_info": {
+          "package_name": "com.example.wheater_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdI_gzK1nGIgSs4fv0azcUI8mcqkHcFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
